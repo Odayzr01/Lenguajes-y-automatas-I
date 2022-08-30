@@ -1,0 +1,87 @@
+Segundo constructor
+Archivo: C:\Users\oscar\Desktop\Lenguajes y Automatas\Sintaxis1\examen.cpp
+Compilado:  03/06/2022 01:12:40 p. m.
+# | caracter
+include | identificador
+< | operador_relacional
+iostream | identificador
+> | operador_relacional
+# | caracter
+include | identificador
+< | operador_relacional
+stdio | identificador
+. | caracter
+h | identificador
+> | operador_relacional
+# | caracter
+include | identificador
+< | operador_relacional
+conio | identificador
+. | caracter
+h | identificador
+> | operador_relacional
+float | tipo_datos
+resultado | identificador
+; | fin_sentencia
+int | tipo_datos
+a | identificador
+, | caracter
+b | identificador
+, | caracter
+c | identificador
+, | caracter
+d | identificador
+; | fin_sentencia
+char | tipo_datos
+opcion | identificador
+; | fin_sentencia
+float | tipo_datos
+radio | identificador
+, | caracter
+altura | identificador
+, | caracter
+x | identificador
+; | fin_sentencia
+void | identificador
+main | identificador
+( | caracter
+) | caracter
+{ | caracter
+printf | identificador
+( | caracter
+"radio: " | cadena
+) | caracter
+; | fin_sentencia
+scanf | identificador
+( | caracter
+"%f" | cadena
+) | caracter
+; | fin_sentencia
+printf | identificador
+( | caracter
+"altura: " | cadena
+) | caracter
+; | fin_sentencia
+scanf | identificador
+( | caracter
+"%f" | cadena
+) | caracter
+; | fin_sentencia
+printf | identificador
+( | caracter
+"volumen: " | cadena
+) | caracter
+; | fin_sentencia
+if | condicion
+( | caracter
+radio | identificador
++ | operador_termino
+10 | numero
+> | operador_relacional
+altura | identificador
+* | operador_factor
+200 | numero
+) | caracter
+{ | caracter
+{ | caracter
+Error de sintaxis: Se espera un identificador.   Numero de Linea: 15
