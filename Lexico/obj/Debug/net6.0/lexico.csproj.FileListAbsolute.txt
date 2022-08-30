@@ -1,0 +1,15 @@
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\bin\Debug\net6.0\lexico.exe
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\bin\Debug\net6.0\lexico.deps.json
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\bin\Debug\net6.0\lexico.runtimeconfig.json
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\bin\Debug\net6.0\lexico.dll
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\bin\Debug\net6.0\ref\lexico.dll
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\bin\Debug\net6.0\lexico.pdb
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\obj\Debug\net6.0\lexico.csproj.AssemblyReference.cache
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\obj\Debug\net6.0\lexico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\obj\Debug\net6.0\lexico.AssemblyInfoInputs.cache
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\obj\Debug\net6.0\lexico.AssemblyInfo.cs
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\obj\Debug\net6.0\lexico.csproj.CoreCompileInputs.cache
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\obj\Debug\net6.0\lexico.dll
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\obj\Debug\net6.0\ref\lexico.dll
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\obj\Debug\net6.0\lexico.pdb
+C:\Users\oscar\Desktop\Lenguajes y Automatas\lexico\obj\Debug\net6.0\lexico.genruntimeconfig.cache
