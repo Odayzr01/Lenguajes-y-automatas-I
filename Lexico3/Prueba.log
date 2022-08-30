@@ -1,0 +1,13 @@
+# | Identificador
+# | Identificador
+1 | Numero
+# | Numero
+12 | Numero
+# | Numero
+123 | Numero
+# | Numero
+1234 | Numero
+Error lexico
+'# | Caracter
+''' | Caracter
+'#' | Caracter
